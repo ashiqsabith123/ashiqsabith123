@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashiq Sabith</h1>
 <h3 align="center">A passionate golang developer from India</h3>
 
+
 - 🔭 I’m currently working on **CLI App**
 
 - 🌱 I’m currently learning **Gin,Go routines,DSA**
@@ -9,9 +10,11 @@
 
 - 🤝 I’m looking for help with **Career Growth**
 
-- 💬 Ask me about **DSA, Golang, RestAPI**
+- 💬 Ask me about **DSA, Golang, RestAPI, Micro Service, Clean Code, Cobra, Gin**
 
 - 📫 How to reach me **ashiqsabith328@gmail.com**
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqsabith123&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqsabith123" /> </p>
 
