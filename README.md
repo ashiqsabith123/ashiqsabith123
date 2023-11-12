@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashiq Sabith</h1>
+<h1 align="center" style="color: white;">Hi 👋, I'm Ashiq Sabith</h1>
 <h3 align="center">A passionate golang developer from India</h3>
 
 
