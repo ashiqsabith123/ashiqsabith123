@@ -1,3 +1,4 @@
+[![MasterHead](https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif)]
 <h1 align="center" style="color: white;">Hi 👋, I'm Ashiq Sabith</h1>
 <h3 align="center">A passionate golang developer from India</h3>
 
